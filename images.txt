@@ -1,4 +1,4 @@
-byaidu/pdf2zh
+dpanel/dpanel:lite
 #frooodle/s-pdf
 #xiaoyaliu/alist
 #支持私库
