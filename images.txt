@@ -1,4 +1,5 @@
-youshandefeiyang/allinone:latest
+containrrr/watchtower:latest
+#youshandefeiyang/allinone:latest
 #frooodle/s-pdf
 #xiaoyaliu/alist
 #支持私库
