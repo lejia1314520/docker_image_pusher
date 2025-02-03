@@ -1,4 +1,4 @@
-dpanel/dpanel:lite
+youshandefeiyang/allinone:latest
 #frooodle/s-pdf
 #xiaoyaliu/alist
 #支持私库
