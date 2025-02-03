@@ -1,4 +1,5 @@
-containrrr/watchtower:latest
+yuexuangu/allinone_format:latest
+#containrrr/watchtower:latest
 #youshandefeiyang/allinone:latest
 #frooodle/s-pdf
 #xiaoyaliu/alist
