@@ -1,4 +1,4 @@
-cmliu/cfnat
+#cmliu/cfnat
 #yuexuangu/allinone_format:latest
 #containrrr/watchtower:latest
 #youshandefeiyang/allinone:latest
@@ -9,6 +9,7 @@ cmliu/cfnat
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+doubebly/doube-itv:latest
 
 
 
