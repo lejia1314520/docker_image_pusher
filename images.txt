@@ -9,8 +9,8 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-doubebly/doube-itv:latest
-#doubebly/doube-itv
+#doubebly/doube-itv:latest
+pixman/pixman
 
 
 
