@@ -1,4 +1,4 @@
-doubebly/doube-itv:latest
+sjkhsl/itv:latest
 #youshandefeiyang/allinone
 #containrrr/watchtower
 #yuexuangu/allinone_format:latest
