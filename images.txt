@@ -1,4 +1,4 @@
-sjkhsl/itv
+dpanel/dpanel:latest
 #youshandefeiyang/allinone
 #containrrr/watchtower
 #yuexuangu/allinone_format:latest
