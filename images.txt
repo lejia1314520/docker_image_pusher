@@ -1,4 +1,5 @@
-dpanel/dpanel:latest
+diluka/nas-tools:2.9.1
+#dpanel/dpanel:latest
 #youshandefeiyang/allinone
 #containrrr/watchtower
 #yuexuangu/allinone_format:latest
